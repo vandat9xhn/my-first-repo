@@ -1,9 +1,9 @@
-let token = "current token"
+let token = "current Token"
 let i = 0; j = 0;
 let is_expired = true;
 let x = null;
 
-
+let abc = 100;
 const refreshToken = () => {
   return token + " has been change"
 }
